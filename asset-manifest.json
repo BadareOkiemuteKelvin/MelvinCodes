@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/MelvinCodes/static/css/main.073c9b0a.css",
-    "main.js": "/MelvinCodes/static/js/main.597d9ca2.js",
-    "static/js/787.7c80ed27.chunk.js": "/MelvinCodes/static/js/787.7c80ed27.chunk.js",
-    "static/media/logo.svg": "/MelvinCodes/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/MelvinCodes/index.html",
-    "main.073c9b0a.css.map": "/MelvinCodes/static/css/main.073c9b0a.css.map",
-    "main.597d9ca2.js.map": "/MelvinCodes/static/js/main.597d9ca2.js.map",
-    "787.7c80ed27.chunk.js.map": "/MelvinCodes/static/js/787.7c80ed27.chunk.js.map"
+    "main.css": "/MelvinCodes/react-gh-pages/static/css/main.073c9b0a.css",
+    "main.js": "/MelvinCodes/react-gh-pages/static/js/main.127eb585.js",
+    "static/js/787.7c80ed27.chunk.js": "/MelvinCodes/react-gh-pages/static/js/787.7c80ed27.chunk.js",
+    "static/media/logo.svg": "/MelvinCodes/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/MelvinCodes/react-gh-pages/index.html",
+    "main.073c9b0a.css.map": "/MelvinCodes/react-gh-pages/static/css/main.073c9b0a.css.map",
+    "main.127eb585.js.map": "/MelvinCodes/react-gh-pages/static/js/main.127eb585.js.map",
+    "787.7c80ed27.chunk.js.map": "/MelvinCodes/react-gh-pages/static/js/787.7c80ed27.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.597d9ca2.js"
+    "static/js/main.127eb585.js"
   ]
 }
